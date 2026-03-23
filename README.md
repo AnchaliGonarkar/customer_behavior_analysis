@@ -1,2 +1,16 @@
 # customer_behavior_analysis
-Data analytics project showcasing customer behavior analysis using python SQL and PowerBi
+Data analytics project showcasing customer behavior analysis using python SQL and PowerBi.
+
+📌 Project Overview
+The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+
+✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+
+✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+
+✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+
+✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
+<img width="1265" height="688" alt="Screenshot 2026-03-23 232524" src="https://github.com/user-attachments/assets/718ecea7-4856-457d-b7f6-e3e0fe8d4926" />
+
